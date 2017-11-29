@@ -1,0 +1,103 @@
+Dalam memilih tempat kerja praktik, penulis terlebih dahulu mencari tahu perusahaan mana saja yang memang membuka kesempatan magang sebagai software engineer.
+Penulis mulai mencari tempat untuk kerja praktik sejak April 2017.
+Kemudian, penulis menyeleksi perusahaan mana saja yang sesuai dengan kriteria dan keinginan penulis.
+Pada awalnya, penulis ingin memilih tempat magang yang memiliki jam kerja fleksibel karena penulis juga ingin mengambil Semester Pendek.
+Namun karena tidak ada perusahaan yang memiliki jam kerja fleksibel, sehingga penulis membatalkan untuk mengambil Semester Pendek.
+Sebelum saya memilih tempat magang mana saja yang penulis akan tuju, penulis mulai menyiapkan dokumen pendukung untuk kerja praktik seperti CV atau resume yang sudah penulis buat sejak Maret 2017.
+Akhirnya penulis mendapatkan tempat kerja praktik pertama yang ingin dituju penulis, yaitu Traveloka.
+Penulis ingin melamar di Traveloka karena disana tidak hanya mendapat pengalaman, namun mahasiswa magang juga akan mendapat kompensasi atas pekerjaannya.
+Langsung saja penulis mengirimkan CV ke bagian HR Tokopedia dan menunggu sekitar seminggu untuk mendapat email balasan berupa link untuk mengikuti online code test.
+Setelah mengikuti tes tersebut, penulis tidak mendapat email balasan kembali dari Traveloka sehingga penulis berasumsi bahwa penulis tidak diterima magang di sana.
+Beberapa saat kemudian penulis mencoba mengajukan lamaran ke Bukalapak pada akhir April 2017.
+Setelah penulis mengirimkan CV, beberapa hari kemudian penulis mendapatkan email berupa link untuk mengikuti online code test yang sama seperti Traveloka.
+Setelah mengikuti tes tersebut, penulis tidak mendapatkan email balasan seperti halnya saat penulis mengikuti tes di Traveloka, sehingga penulis berasumsi tidak diterima magang di sana.
+Kemudian penulis mendapatkan informasi mengenai magang di Jepang dengan Top Career sebagai penyedia informasi magang.
+Setelah melihat beberapa perusahaan yang menerima magang, akhirnya penulis melamar di Cookpad Inc, Japan Railway East Company dan HDE Inc.
+Penulis menunggu waktu cukup lama untuk mendapatkan email balasan karena sudah melibatkan perusahaan multinasional.
+Karena itu penulis mencoba melamar ke tempat magang lain yang masih membuka lowongan magang.
+Penulis mencoba melamar ke sebuah perusahaan startup bernama Amalan International.
+Penulis sudah melakukan wawancara sebanyak sekali pada proses penerimaannya.
+Namun setelah melakukan wawancara, tidak ada kabar lebih lanjut dari Amalan sehingga penulis mengasumsikan kalau penulis tidak diterima di sana.
+Dan akhirnya penulis melamar ke Pusilkom UI.
+Tidak perlu waktu lama untuk menerima email balasan setelah penulis mengirimkan CV, Pusilkom langsung memberikan jadwal wawancara dan tes pada hari Rabu, 10 Mei 2017.
+Setelah melakukan wawancara dan tes, penulis menunggu email balasan dari Pusilkom dan 3 minggu kemudian penulis mendapat email balasan untuk melakukan pertemuan perdana bersama teman-teman yang lain yaitu pada hari Selasa, 6 Juni 2017.
+Pertemuan perdana ini membahas terkait briefing dan diskusi terkait pembuatan KAKP.
+Namun setelah melakukan pertemuan perdana dengan teman-teman serta penyelia dari Pusilkom, penulis mendapat email balasan dari Top Career yaitu dari Cookpad Inc dan JR East Company untuk melakukan online test.
+Namun setelah penulis mendapatkan kepastian untuk magang di Pusilkom serta beberapa kendala yang dihadapi jika magang di Jepang, maka penulis memutuskan untuk magang di Pusilkom UI, dan penulis mengabari ke Top Career agar membatalkan lamaran yang penulis ajukan serta agar dapat memberikan kesempatan yang sama di masa yang akan datang.
+Pusat Ilmu Komputer Universitas Indonesia atau yang lebih dikenal sebagai Pusilkom UI telah berdiri sejak tahun 1972.
+Selama 40 tahun lebih, Pusilkom UI telah banyak memberikan kontribusi besar terhadap pengembangan dunia teknologi informasi, baik di dunia akademis maupun industri dan bisnis, khususnya di Indonesia.
+Pusilkom memiliki visi, yaitu “Menjadi Organisasi yang terkemuka dan memiliki kredibilitas tinggi di tingkat nasional dalam penyediaan solusi teknologi informasi”.
+Dengan visi itu, Pusilkom ingin mencapainya dengan memiliki misi, yaitu “Memberikan layanan solusi yang berkualitas yang spesifik untuk kebutuhan organisasi serta independen terhadap vendor”, serta “Menjembatani dunia akademik/penelitian dengan dunia bisnis/industry di bidang teknologi informasi”.
+Struktur organisasi Pusilkom UI dapat dijabarkan pada gambar 1.
+Direktur menjadi pelaksana pada posisi tertinggi perusahaan dan bertugas mengatur kebijakan secara langsung.
+Kemudian, ada 5 bidang yang menjadi struktur besar dari Pusilkom UI, yaitu Manajer Operasional, Manajer Divisi System Development, Manajer Divisi IS/IT Consulting, Manajer Divisi IS/IT Training, dan Manajer Divisi Data Processing.
+Salah satu misi besar yang ingin dicapai oleh KPU RI adalah meningkatnya jumlah pemilih pada tahun 2017 ini dibandingkan tahun 2016 yang semula target pemilih adalah 75% dari total pemilih aktif, kini menjadi 77,5%.
+Dengan ambisi besar seperti itu, butuh effort dan usaha yang keras agar dapat tercapai, salah satunya adalah dengan melakukan sosialisasi dan pendidikan kepada para pemilih.
+Namun, kegiatan tersebut tidak akan tercapai dengan baik tanpa adanya kerjasama yang baik dari berbagai pihak yang bekerja sama dengan KPU RI.
+Faktor anggaran yang kurang tepat sasaran juga menjadi penentu agar kegiatan sosialisasi dapat sesuai sasaran yang diinginkan.
+Dan juga, anggaran yang terlibat juga bersumber dari APBN RI dan jumlah yang tidak sedikit.
+Jika tidak ada pertanggung jawaban yang jelas terhadap penggunaan anggaran tersebut serta tidak ada tujuan yang tercapai maka anggaran yang sudah diberikan oleh rakyat akan sia-sia.
+Mengingat akan hal-hal krusial tersebut, maka diperlukan sebuah aplikasi yang dapat membantu KPU RI untuk memantau semua kegiatan yang diadakan KPU RI, KPUD, masyarakat, instansi terkait, partai politik kerjasama, maupun pihak lain seperti LSM.
+Oleh karena itu, Pusilkom UI yang sudah lama menjadi partner yang ditunjuk dalam M.
+O.
+U.
+oleh KPU RI dipercaya untuk mengembangkan sebuah aplikasi yang dapat meringankan pekerjaan KPU RI dalam melaksanakan kegiatan dengan fokus, terekap dan terawasi dengan baik.
+Dalam pengerjaan aplikasi tersebut, terdapat peran yang terlibat termasuk dari pihak KPU RI maupun pihak Pusilkom UI, yaitu peran-peran yang biasanya terdapat pada framework Scrum, seperti product owner, scrum master dan scrum team yang berasal dari Pusilkom UI.
+Scrum team terdiri dari beberapa anggota yang diantaranya adalah software engineer yang semua anggotanya adalah mahasiswa magang yang mengambil matakuliah Kerja Praktik dan system analyst yang berasal dari senior engineer yang berasal dari staf Pusilkom UI.
+Penulis mengerjakan aplikasi dari KPU RI bersama dengan empat anggota tim yang semuanya memiliki tugas sebagai software engineer, yaitu Aminur Muda, Fadhlan Hidayat, Oddi Muhammad Ikbar, dan Sumayyah.
+Selama penulis mengerjakan proyek SIPARMAS di kerja praktik ini, penulis memiliki beberapa kendala umum yaitu tidak terlalu biasa dengan lingkungan dari alat-alat pengembangan yang digunakan, yaitu Java Spring Boot dan Thymeleaf.
+Penulis perlu penyesuaian hingga beberapa minggu agar dapat menguasai framework tersebut, dan penulis menjadi paham dengan sistem Model, View and Controller (MVC) yang dimiliki oleh Java Spring Boot.
+Setelah penulis menerima sharing session dari salah satu staf Pusilkom UI, penulis menjadi lebih paham cara menggunakannya dan mengembangkannya memakai Intellij dan ternyata jauh lebih mudah dibandingkan menggunakan IDE Eclipse.
+Kendala lain adalah masalah komunikasi penulis kepada sesama tim, yaitu penulis merasa enggan untuk menanyakan dan meminta tolong terkait masalah yang penulis dapatkan semasa kerja praktik.
+Padahal di dalam lingkungan scrum team yang dinilai adalah performa tim, bukan individu.
+Setelah penulis paham akan hal tersebut, akhirnya penulis sering menanyakan beberapa permasalahan kepada tim.
+Namun berkat scrum master yang siap membantu dan berusaha memberikan feedback disaat penulis bertanya ataupun meminta pendapat, pekerjaan penulis menjadi lebih mudah dan menyenangkan, serta lingkungan tim yang sudah kenal dengan teman-teman sehingga kerja praktik penulis menjadi lebih nyaman.
+Kerja praktik yang penulis laksanakan tentunya menuntut penulis mengerahkan seluruh ilmu yang penulis telah pelajari di perkuliahan.
+Tidak
+hanya itu, penulis juga diharapkan bisa mempelajari lebih ilmu-ilmu baru yang juga berpotensi berkaitan dengan ilmu di perkuliahan.
+Penulis akan menjelaskan beberapa mata kuliah Fasilkom UI yang berkaitan dengan proses kerja praktik.
+Matakuliah pertama adalah Dasar-Dasar Pemrograman (DDP).
+Salah satu materi perkuliahan DDP yang erat berkaitan dengan pekerjaan yang penulis jalani adalah Object Oriented Programming (OOP).
+Dalam mengimplementasi program dan menghubungkan setiap komponen yang dibutuhkan, prinsip OOP sangat penting untuk digunakan.
+Penulis pun juga menjadi lebih paham bagaimana prinsip OOP sebenarnya.
+Terutama framework yang digunakan adalah Java Spring Boot yang mengutamakan konsep OOP.
+Matakuliah kedua adalah Perancangan dan Pemrograman Web (PPW).
+Banyak sekali materi PPW yang erat kaitannya dengan pekerjaan penulis, mulai dari penggunaan bahasa-bahasa pemrograman web dasar (HTML, CSS, JavaScript, JQuery) hingga erat kaitan dengan konsep pemrograman MVC yang memang juga menjadi dasar alur berpikir.
+Terutama framework yang digunakan adalah Thymeleaf yang menggunakan frontend berbasis HTML.
+Berikutnya, matakuliah yang ketiga adalah Basis Data.
+SIPARMAS menggunakan PostgreSQL sebagai DBMS.
+Dalam pekerjaan yang penulis emban, penulis diharapkan untuk bisa menyimpan, mengambil dan menghapus data-data apa saja yang memang dibutuhkan meski data-data yang dibutuhkan tidak dilakukan dengan query “kasar” tetapi dengan bantuan framework yang disediakan oleh Java Spring Boot Framework.
+Lalu, matakuliah yang keempat adalah Rekayasa Perangkat Lunak (RPL).
+Ilmu di RPL membuat penulis sadar memudahkan penulis dalam menjalankan prinsip OOP pada saat proses implementasi.
+Selain itu, penulis juga membiasakan budaya daily meeting bersama tim yang membuat penulis belajar untuk selalu memberikan progress setiap harinya dan bercerita ketika ada kendala apapun yang dapat menghambat pengerjaan aplikasi.
+Dan, matakuliah yang kelima adalah Pemrograman Skala Perusahaan (PSP).
+Walaupun penulis tidak mengambil matakuliah ini di Fasilkom, namun penulis sempat mencoba-coba dan mengerjakan beberapa tutorial nya sebagai modal untuk kerja praktik di Pusilkom UI.
+Relevansi sangat tinggi terletak pada framework yang digunakan serta lingkungan kerja yang sesuai dengan matakuliah PSP menjadikan pengerjaan SIPARMAS menjadi sangat bersesuaian dengan apa yang telah diajarkan di matakuliah PSP.
+Setelah mengajukan lamaran ke beberapa startup dan perusahaan, akhirnya penulis mendapatkan kesempatan untuk melakukan kerja praktik selama 10 minggu di Pusilkom UI dari tanggal 12 Juni 2017 – 31 Agustus 2017.
+Penulis ditugaskan untuk mengerjakan proyek Sistem Informasi Partisipasi Masyarakat (SIPARMAS) untuk Komisi Pemilihan Umum Republik Indonesia (KPU RI).
+SIPARMAS adalah aplikasi yang dibuat dengan tujuan untuk mencatat kegiatan pendidikan dan sosialisasi calon pemilih yang dilaksanakan oleh KPU, ataupun kegiatan yang diselenggarakan oleh pihak lain seperti masyarakat, instansi (pemerintah, BUMN, swasta), partai politik, dan lainnya.
+Penulis mengerjakan proyek tersebut bersama dengan empat orang anggota tim lainnya, yaitu Aminur Muda, Fadhlan Hidayat, Oddi Muhammad Ikbar, dan Sumayyah.
+Metode yang tim kami gunakan dalam pengerjaan proyek adalah Scrum.
+Dalam pengembangan aplikasi SIPARMAS, kami menggunakan framework Spring Boot dan Thymeleaf untuk frontend nya.
+Selama pengerjaan, terdapat banyak perbedaan dengan rencana di KAKP.
+Hal itu disebabkan karena metode Scrum yang berubah-ubah, dan juga feedback yang didapatkan dari KPU ketika pihak Pusilkom UI melakukan demonstrasi aplikasi SIPARMAS yang telah dibuat.
+Selama penulis mengerjakan proyek di Pusilkom, kendala yang didapat secara umum adalah tidak biasanya penulis menggunakan framework Java Spring Boot yang berbeda dengan Java pada umumnya.
+Sedangkan teman-teman penulis yang sudah mendapatkan matakuliah PSP sudah mengetahui bagaimana cara menggunakan framework ini.
+Namun pada akhirnya penulis bisa terbiasa dengan framework ini dan berhasil menyelesaikan kerja praktik.
+Bagi penulis, Pusilkom UI adalah tempat yang cukup nyaman untuk dijadikan sebagai tempat kerja praktik.
+Tidak hanya lokasi nya yang tidak terlalu asing karena masih satu area dengan Fasilkom UI, namun juga karena waktu kerja yang fleksibel, scrum master yang berpengalaman, kegiatan olahraga rutin, dan konsumsi saat rapat.
+Pekerjaan di Pusilkom UI memiliki relevansi yang tinggi terhadap matakuliah yang diajarkan di Fasilkom UI.
+Oleh karena itu, penulis sangat merekomendasikan Pusilkom UI sebagai temapt untuk kerja praktik, bahkan untuk mahasiswa prodi Ilmu Komputer sekalipun.
+Setelah penulis melaksanakan kerja praktik, penulis mendapatkan banyak pelajaran berharga yang dapat diberikan untuk para calon pelaksana kerja praktik nantinya.
+Salah satu faktor banyaknya mahasiswa yang gagal mengambil matakuliah Kerja Praktik di semester ganjil adalah karena pada libur semester genap mereka tidak mendapatkan tempat untuk kerja praktik.
+Persiapan yang sudah dilakukan sejak awal semester bisa dilakukan agar dapat mengantisipasi lowongan kerja yang sudah penuh.
+Selain mengurus segala macam hal-hal teknis dalam rekrutmen kerja praktik, sebaiknya para calon pelaksana kerja praktik juga kembali mengasah skill yang diperlukan saat kerja praktik nanti.
+Karena mungkin saja tes-tes yang diberikan akan sangat berbeda jika dibandingkan dengan apa yang telah diajarkan selama ini di dalam kelas.
+Penulis juga merekomendasikan untuk menanyakan informasi terkait kerja praktik ke senior yang telah mengambil matakuliah Kerja Praktik agar nantinya dapat mengerti apa saja yang dilakukan saat kerja praktik nantinya.
+Selama penulis mengerjakan proyek SIPARMAS di kerja praktik ini, penulis memiliki beberapa kendala umum yaitu tidak terlalu biasa dengan lingkungan dari alat-alat pengembangan yang digunakan, yaitu Java Spring Boot dan Thymeleaf.
+Penulis perlu penyesuaian hingga beberapa minggu agar dapat menguasai framework tersebut, dan penulis menjadi paham dengan sistem Model, View and Controller (MVC) yang dimiliki oleh Java Spring Boot.
+Setelah penulis menerima sharing session dari salah satu staf Pusilkom UI, penulis menjadi lebih paham cara menggunakannya dan mengembangkannya memakai Intellij dan ternyata jauh lebih mudah dibandingkan menggunakan IDE Eclipse.
+Kendala lain adalah masalah komunikasi penulis kepada sesama tim, yaitu penulis merasa enggan untuk menanyakan dan meminta tolong terkait masalah yang penulis dapatkan semasa kerja praktik.
+Padahal di dalam lingkungan scrum team yang dinilai adalah performa tim, bukan individu.
+Setelah penulis paham akan hal tersebut, akhirnya penulis sering menanyakan beberapa permasalahan kepada tim.
+Namun berkat scrum master yang siap membantu dan berusaha memberikan feedback disaat penulis bertanya ataupun meminta pendapat, pekerjaan penulis menjadi lebih mudah dan menyenangkan, serta lingkungan tim yang sudah kenal dengan teman-teman sehingga kerja praktik penulis menjadi lebih nyaman.

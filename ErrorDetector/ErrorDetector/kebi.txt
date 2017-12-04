@@ -1,4 +1,3 @@
-lema
 aba
 aba-aba
 abad
@@ -16865,7 +16864,7 @@ malangkamo
 malap
 malapari
 malapetaka
-malapraktek
+malapraktik
 malar
 malaria
 malas
@@ -21734,7 +21733,7 @@ prakira
 prakondisi
 prakonsepsi
 praksis
-praktek
+praktik
 praktikan
 praktikum
 praktis

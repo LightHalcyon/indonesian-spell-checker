@@ -66,7 +66,7 @@ Banyak sekali materi PPW yang erat kaitannya dengan pekerjaan penulis, mulai dar
 Terutama framework yang digunakan adalah Thymeleaf yang menggunakan frontend berbasis HTML.
 Berikutnya, matakuliah yang ketiga adalah Basis Data.
 SIPARMAS menggunakan PostgreSQL sebagai DBMS.
-Dalam pekerjaan yang penulis emban, penulis diharapkan untuk bisa menyimpan, mengambil dan menghapus data-data apa saja yang memang dibutuhkan meski data-data yang dibutuhkan tidak dilakukan dengan query 徒asar.tetapi dengan bantuan framework yang disediakan oleh Java Spring Boot Framework.
+Dalam pekerjaan yang penulis emban, penulis diharapkan untuk bisa menyimpan, mengambil dan menghapus data-data apa saja yang memang dibutuhkan meski data-data yang dibutuhkan tidak dilakukan dengan query ?asar.tetapi dengan bantuan framework yang disediakan oleh Java Spring Boot Framework.
 Lalu, matakuliah yang keempat adalah Rekayasa Perangkat Lunak (RPL).
 Ilmu di RPL membuat penulis sadar memudahkan penulis dalam menjalankan prinsip OOP pada saat proses implementasi.
 Selain itu, penulis juga membiasakan budaya daily meeting bersama tim yang membuat penulis belajar untuk selalu memberikan progress setiap harinya dan bercerita ketika ada kendala apapun yang dapat menghambat pengerjaan aplikasi.

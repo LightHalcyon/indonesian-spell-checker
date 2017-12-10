@@ -75,8 +75,8 @@ for word in typo.keys():
     for x in range(len(word)-2, 0, -1):
         if not b_any(i.endswith(word[x:len(word)]) for i in lib.keys()):
             typo[word].setErrorIndexRear(x)
-            print(word[x:len(word)])
-            print(word[typo[word].getErrorIndexRear()+1:len(word)])
+            #print(word[x:len(word)])
+            #print(word[typo[word].getErrorIndexRear()+1:len(word)])
             break
 
     for sug in lib.keys():

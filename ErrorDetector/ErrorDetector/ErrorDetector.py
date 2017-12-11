@@ -35,6 +35,9 @@ class Typo(object):
     def getErrorIndexRear(self):
         return self.errorIndexRear
 
+    def getSuggestion(self):
+        return self.suggestion
+
 lib = {}
 with open("kebi.txt") as f:
     i = 0
@@ -86,3 +89,8 @@ for word in typo.keys():
             if sug.endswith(word[typo[word].getErrorIndexRear()+1:len(word)]):
                 typo[word].addSuggestion(sug)
                 #print(sug)
+
+for word in typo.keys():
+    for sug in typo[word].getSuggestion().keys():
+        #todo
+        typo[word].getSuggestion()[sug] = 

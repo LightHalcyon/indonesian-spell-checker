@@ -10,13 +10,15 @@ class Typo(object):
     errorIndexFront = 0
     errorIndexRear = 0
     suggestion = {}
+    unstemmed = ""
 
-    def __init__(self, lineNum, wordNum):
+    def __init__(self, lineNum, wordNum, unstemmed):
         self.lineNum = lineNum
         self.wordNum = wordNum
         self.errorIndexFront = 0
         self.errorIndexRear = 0
         self.suggestion = {}
+        self.unstemmed = unstemmed
 
     def setErrorIndexFront(self, errorIndexFront):
         self.errorIndexFront = errorIndexFront
@@ -41,7 +43,7 @@ with open("kebi.txt") as f:
         i+=1
         
 data = []
-with open("sentence2.txt",encoding='utf-8') as g:
+with open("sentence3.txt",encoding='ansi') as g:
     for line in g:
         data.append(re.sub(r"[^A-Za-z0-9 ]","",re.sub(r"[^A-Za-z0-9\.\,\n ]"," ",line)).lower())
 
@@ -61,7 +63,7 @@ for lineNum, line in enumerate(data,1):
                     stemmed = stemmer.stem(word)
                     if stemmed not in lib.keys():
                         #print(stemmed)
-                        typo[stemmed] = Typo(lineNum,wordNum)
+                        typo[stemmed] = Typo(lineNum,wordNum,word)
 
 for word in typo.keys():
     #print(word, " ", typo[word])

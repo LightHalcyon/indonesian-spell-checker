@@ -69,28 +69,54 @@ for lineNum, line in enumerate(data,1):
                         typo[stemmed] = Typo(lineNum,wordNum,word)
 
 for word in typo.keys():
-    #print(word, " ", typo[word])
+    print(word)
     for x in range(0, len(word)):
         if not b_any(i.startswith(word[0:x]) for i in lib.keys()):
             typo[word].setErrorIndexFront(x)
-            print(word[0:x])
-            print(word[0:typo[word].getErrorIndexFront()-1])
+            #print(word[0:x])
+            #print(word[0:typo[word].getErrorIndexFront() - 1])
             break
 
-    for x in range(len(word)-2, 0, -1):
+    for x in range(len(word) - 2, 0, -1):
         if not b_any(i.endswith(word[x:len(word)]) for i in lib.keys()):
             typo[word].setErrorIndexRear(x)
-            #print(word[x:len(word)])
+            print(word[x:len(word)])
             #print(word[typo[word].getErrorIndexRear()+1:len(word)])
             break
 
     for sug in lib.keys():
-        if sug.startswith(word[0:typo[word].getErrorIndexFront()-1]):
-            if sug.endswith(word[typo[word].getErrorIndexRear()+1:len(word)]):
-                typo[word].addSuggestion(sug)
-                #print(sug)
+        if abs(len(sug) - len(word))<2:
+            if sug.startswith(word[0:typo[word].getErrorIndexFront() - 2]):
+                if sug.endswith(word[typo[word].getErrorIndexRear() + 2:len(word)]):
+                    typo[word].addSuggestion(sug)
+                    #print(sug)
+                elif sug.endswith(word[typo[word].getErrorIndexRear() + 1:len(word)]):
+                    typo[word].addSuggestion(sug)
+            elif sug.startswith(word[0:typo[word].getErrorIndexFront() - 1]):
+                if sug.endswith(word[typo[word].getErrorIndexRear() + 1:len(word)]):
+                    typo[word].addSuggestion(sug)
+                elif sug.endswith(word[typo[word].getErrorIndexRear() + 2:len(word)]):
+                    typo[word].addSuggestion(sug)
+
+    
 
 for word in typo.keys():
     for sug in typo[word].getSuggestion().keys():
         #todo
-        typo[word].getSuggestion()[sug] = 
+        s = (typo[word].getErrorIndexFront() - 1) + (len(word) - typo[word].getErrorIndexRear() + 1)
+        n1 = len(word)
+        n2 = len(sug)
+        u1 = 0
+        u2 = 0
+        if n1 == n2:
+            u1 = len(word[(typo[word].getErrorIndexFront() - 1):(len(word) - typo[word].getErrorIndexRear() + 1)])
+            u2 = u1
+        else:
+            u2 = abs(n2 - n1)
+        typo[word].getSuggestion()[sug] = ((s ^ 2) - ((n2 - n1) ^ 2) - ((u1 + u2) ^ 2)) / (s ^ 2)
+
+    for k,v in list(typo[word].getSuggestion().items()):
+        if v <= 0:
+            del typo[word].getSuggestion()[k]
+    
+    print(typo[word].getSuggestion())

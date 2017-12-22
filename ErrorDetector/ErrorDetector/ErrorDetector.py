@@ -3,6 +3,9 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import nltk
 import re
 from builtins import any as b_any
+import time
+
+startTime = time.time()
 
 class Typo(object):
     lineNum = 0
@@ -80,7 +83,7 @@ for word in typo.keys():
     for x in range(len(word) - 2, 0, -1):
         if not b_any(i.endswith(word[x:len(word)]) for i in lib.keys()):
             typo[word].setErrorIndexRear(x)
-            print(word[x:len(word)])
+            #print(word[x:len(word)])
             #print(word[typo[word].getErrorIndexRear()+1:len(word)])
             break
 
@@ -119,4 +122,7 @@ for word in typo.keys():
         if v <= 0:
             del typo[word].getSuggestion()[k]
     
-    print(typo[word].getSuggestion())
+    #print(typo[word].getSuggestion())
+
+
+print("time = ",(time.time() - startTime)," s")

@@ -1,37 +1,15 @@
 jepang
 startup
-rtup
 independen
-ndependen
 kerjasama
-asama
 rekap
 matakuliah
-akuliah
 sharing
 pemrograman
-graman
 nya
 mengetah
-ngetah
 olaaga
-aaga
 temapt
-pt
 prodi
 rekrutmen
-utmen
-{}
-{}
-{}
-{}
-{}
-{}
-{'babaring': 0.45454545454545453, 'baring': 1.0, 'caring': 1.0, 'faring': 1.0, 'garing': 1.0, 'haring': 1.0, 'jaring': 1.0, 'jemaring': 0.45454545454545453, 'laring': 1.0, 'paring': 1.0, 'saring': 1.0, 'taring': 1.0}
-{}
-{'na': 1.0}
-{}
-{}
-{'temaah': 0.2, 'temaha': 0.2, 'temak': 1.0, 'temali': 0.2, 'teman': 1.0, 'temara': 0.2, 'temas': 1.0, 'temasa': 0.2, 'tematu': 0.2, 'tembak': 0.2, 'tembam': 0.2, 'tembek': 0.2, 'tembel': 0.2, 'tembem': 0.2, 'tembis': 0.2, 'tembok': 0.2, 'tembra': 0.2, 'tembu': 1.0, 'tembuk': 0.2, 'tembus': 0.2, 'temeh': 1.0, 'temetu': 0.2, 'temin': 1.0, 'tempa': 1.0, 'tempah': 0.2, 'tempan': 0.2, 'tempap': 0.2, 'tempat': 0.2, 'tempe': 1.0, 'tempek': 0.2, 'tempel': 0.2, 'tempik': 0.2, 'tempo': 1.0, 'tempua': 0.2, 'tempuh': 0.2, 'tempui': 0.2, 'tempur': 0.2, 'tempus': 0.2, 'temuni': 0.2}
-{}
-{}
+time =  21.377856492996216  s
